@@ -12,4 +12,11 @@ NOT DONE YET
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
+```text
+Other    13 hrs 6 mins   ████████░░░░░░░░░░░░░░░░░   31.64 % 
+C++      12 hrs 37 mins  ███████▓░░░░░░░░░░░░░░░░░   30.46 % 
+Python   12 hrs 5 mins   ███████▒░░░░░░░░░░░░░░░░░   29.18 % 
+V        1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Org      1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+```
 <!--END_SECTION:waka-->
