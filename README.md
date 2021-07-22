@@ -13,6 +13,8 @@ NOT DONE YET
 
 <!--START_SECTION:waka-->
 ```text
+Week: 15 July, 2021 - 21 July, 2021
+
 Other    13 hrs 6 mins   ████████░░░░░░░░░░░░░░░░░   31.64 % 
 C++      12 hrs 37 mins  ███████▓░░░░░░░░░░░░░░░░░   30.46 % 
 Python   12 hrs 5 mins   ███████▒░░░░░░░░░░░░░░░░░   29.18 % 
