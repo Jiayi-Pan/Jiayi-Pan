@@ -13,12 +13,9 @@ NOT DONE YET
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 August, 2021 - 10 August, 2021
+Week: 05 August, 2021 - 11 August, 2021
 
-Other        6 hrs 6 mins    ████████████████████▒░░░░   80.89 % 
-Org          1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-C++          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Emacs Lisp   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other        3 hrs 10 mins   ████████████████████████▓   98.78 % 
+Emacs Lisp   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
