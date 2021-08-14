@@ -13,7 +13,7 @@ NOT DONE YET
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2021 - 12 August, 2021
+Week: 07 August, 2021 - 13 August, 2021
 
 Other        1 hr 5 mins     ████████████████████████░   96.51 % 
 Emacs Lisp   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
