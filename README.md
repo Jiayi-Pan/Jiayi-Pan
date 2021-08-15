@@ -13,9 +13,9 @@ NOT DONE YET
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 August, 2021 - 13 August, 2021
+Week: 08 August, 2021 - 14 August, 2021
 
-Other        1 hr 5 mins     ████████████████████████░   96.51 % 
-Emacs Lisp   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Other        49 mins         ████████████████████████░   95.42 % 
+Emacs Lisp   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 <!--END_SECTION:waka-->
