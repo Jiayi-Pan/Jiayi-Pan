@@ -13,8 +13,10 @@ NOT DONE YET
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 August, 2021 - 30 August, 2021
+Week: 25 August, 2021 - 31 August, 2021
 
-TeX   3 mins          █████████████████████████   100.00 % 
+Python    31 mins         ████████████████████▓░░░░   82.62 % 
+TeX       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+RPMSpec   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 <!--END_SECTION:waka-->
