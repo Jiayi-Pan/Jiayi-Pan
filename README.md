@@ -13,10 +13,9 @@ NOT DONE YET
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 August, 2021 - 31 August, 2021
+Week: 26 August, 2021 - 01 September, 2021
 
-Python    31 mins         ████████████████████▓░░░░   82.62 % 
-TeX       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-RPMSpec   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Python    31 mins         ███████████████████████░░   91.59 % 
+RPMSpec   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 ```
 <!--END_SECTION:waka-->
