@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! For more about me, meet me on [my homepage](https://jiayipan.me) :)
+Nice to meet you! For more about me, see you on [my homepage](https://jiayipan.me) :)
 
 
 Recent Coding:
