@@ -15,3 +15,4 @@ C++       3 mins          ▓░░░░░░░░░░░░░░░░░
 RPMSpec   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 <!--END_SECTION:waka-->
+(Other, Org and TeX are all literary works or document reading)
