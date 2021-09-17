@@ -15,4 +15,4 @@ TeX     3 hrs 39 mins   ██░░░░░░░░░░░░░░░░�
 C++     2 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 ```
 <!--END_SECTION:waka-->
-(Other, Org and TeX are all literary works or document reading)
+(Org， Other and TeX are all literary works or document reading)
