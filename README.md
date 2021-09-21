@@ -15,4 +15,4 @@ TeX     3 hrs 58 mins   ██▒░░░░░░░░░░░░░░░�
 Text    1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 <!--END_SECTION:waka-->
-(Org， Other and TeX are all literary works or document reading)
+(Org, Other and TeX are all literary works or document reading)
