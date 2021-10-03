@@ -6,13 +6,13 @@ Nice to meet you! For more about me, see you on [my homepage](https://jiayipan.m
 Recent Coding:
 <!--START_SECTION:waka-->
 ```text
-Week: 25 September, 2021 - 01 October, 2021
+Week: 26 September, 2021 - 02 October, 2021
 
-Other    12 hrs 19 mins  ████████▓░░░░░░░░░░░░░░░░   34.41 % 
-Org      11 hrs 37 mins  ████████░░░░░░░░░░░░░░░░░   32.45 % 
-TeX      3 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Python   3 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-C        2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Other    11 hrs 50 mins  █████████░░░░░░░░░░░░░░░░   35.98 % 
+Org      9 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.01 % 
+TeX      3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Python   3 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+C        2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 ```
 <!--END_SECTION:waka-->
 (Org, Other and TeX are all literary works or document reading)
