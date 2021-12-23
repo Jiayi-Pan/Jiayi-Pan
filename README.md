@@ -2,6 +2,7 @@
 
 Nice to meet you! For more about me, see you on [my homepage](https://jiayipan.me) :)
 
+---
 
 Recent Coding:
 <!--START_SECTION:waka-->
@@ -15,4 +16,4 @@ C++      1 hr 18 mins    ██▒░░░░░░░░░░░░░░░�
 JSON     1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 ```
 <!--END_SECTION:waka-->
-(Org, Other and TeX are all literary works or document reading)
+- Org, Other and TeX are all literary works or document reading
