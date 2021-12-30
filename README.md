@@ -7,10 +7,10 @@ Nice to meet you! For more about me, see you on [my homepage](https://jiayipan.m
 Recent Coding:
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2021 - 28 December, 2021
+Week: 23 December, 2021 - 29 December, 2021
 
-Python   15 mins         ████████████▓░░░░░░░░░░░░   50.84 % 
-Other    13 mins         ███████████▓░░░░░░░░░░░░░   46.68 % 
+Python   41 mins         ███████████████████████░░   91.95 % 
+Other    2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 ```
 <!--END_SECTION:waka-->
 - Org, Other and TeX are all literary works or document reading
