@@ -7,7 +7,7 @@ Nice to meet you! For more about me, see you on [my homepage](https://jiayipan.m
 Recent Coding:
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
 Python   41 mins         ███████████████████████░░   91.95 % 
 Other    2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
