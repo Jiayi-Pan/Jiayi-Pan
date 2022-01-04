@@ -17,3 +17,4 @@ Other      21 mins         ██▓░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 - Org, Other and TeX are all literary works or document reading
+- Upgrading my computer recently, log might be inaccurate
