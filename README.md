@@ -16,5 +16,5 @@ YAML       22 mins         ██░░░░░░░░░░░░░░░�
 Other      21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 ```
 <!--END_SECTION:waka-->
-- Org, Other and TeX are all literary works or document reading
+- Org, Markdown, Other and TeX are all literary works or document reading
 - Upgrading my computer recently, log might be inaccurate
