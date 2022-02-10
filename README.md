@@ -9,7 +9,7 @@ For more about me, see you on [my homepage](https://jiayipan.me) :)
 Recent Coding:
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
 Python     18 hrs 50 mins  █████████████████████▒░░░   85.95 % 
 Other      50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
