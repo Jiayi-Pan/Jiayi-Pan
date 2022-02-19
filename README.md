@@ -9,15 +9,15 @@ For more about me, see you on [my homepage](https://jiayipan.me) :)
 Recent Coding:
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 32 hrs 40 mins
+Total: 28 hrs 18 mins
 
-Python     30 hrs 56 mins  ███████████████████████▒░   92.76 % 
-Markdown   1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Other      40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Text       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-CSV        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Python     26 hrs 51 mins  ██████████████████████▓░░   90.83 % 
+Other      1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Markdown   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Text       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+TeX        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
 - Org, Markdown, Other and TeX are all literary works or document reading
