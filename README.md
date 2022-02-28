@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! I am a junior CS student at UMich/SJTU with a passion in AI research. 
+Nice to meet you! I am a junior CS student at UMich/SJTU with a passion in NLP/Robotics/CV and more. 
 
 For more about me, see you on [my homepage](https://jiayipan.me) :)
 
