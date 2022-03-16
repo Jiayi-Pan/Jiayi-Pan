@@ -18,5 +18,5 @@ Other      44 mins         ▓░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-- Org, Markdown, Other and TeX are all literary works or document reading
+- Org, TeX, Markdown, Text, Other and are all literary works or document reading
 - Upgrading my computer recently, log might be inaccurate
