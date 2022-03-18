@@ -10,11 +10,12 @@ Recent Coding:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2022 - To: 16 March 2022
+From: 10 March 2022 - To: 17 March 2022
 
-Python     23 hrs 27 mins  ███████████████████▒░░░░░   77.17 %
-Text       5 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-Other      42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Python     14 hrs 41 mins  ██████████████████▓░░░░░░   75.19 %
+Text       3 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+YAML       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Other      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
