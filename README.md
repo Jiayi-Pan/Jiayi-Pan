@@ -10,10 +10,10 @@ Recent Coding:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
+From: 07 April 2022 - To: 14 April 2022
 
-Python       34 hrs 33 mins  ████████████████░░░░░░░░░   63.46 %
-Other        17 hrs 13 mins  ████████░░░░░░░░░░░░░░░░░   31.62 %
+Python       35 hrs 55 mins  ██████████████▓░░░░░░░░░░   58.87 %
+Other        22 hrs 1 min    █████████░░░░░░░░░░░░░░░░   36.11 %
 ```
 
 <!--END_SECTION:waka-->
