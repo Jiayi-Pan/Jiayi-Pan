@@ -17,4 +17,4 @@ Other        26 hrs 16 mins  ██████████▓░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-- Org, TeX, Markdown, Text, and Other are all literary works or document reading
+- Org, TeX, Markdown, Text, and Other are all text writing or reading
