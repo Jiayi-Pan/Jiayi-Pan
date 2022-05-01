@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you! I am a up-coming senior CS student at UMich/SJTU with a passion in NLP/Robotics/CV and more. 
+Nice to meet you! I am an up-coming senior CS student at UMich/SJTU with a passion in NLP/Robotics/CV and more. 
 
 For more about me, see you on [my homepage](https://jiayipan.me) :)
 
