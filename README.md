@@ -10,9 +10,9 @@ Recent Coding:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 12 June 2022
+From: 06 June 2022 - To: 13 June 2022
 
-Other        38 hrs 5 mins   ████████████████▓░░░░░░░░   66.36 %
+Other        30 hrs 28 mins  ██████████████░░░░░░░░░░░   56.06 %
 ```
 
 <!--END_SECTION:waka-->
