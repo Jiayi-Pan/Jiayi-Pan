@@ -10,14 +10,14 @@ Recent Coding:
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 June 2022 - To: 20 June 2022
+From: 14 June 2022 - To: 21 June 2022
 
-Python       25 hrs 30 mins  ███████████████████▒░░░░░   77.83 %
-JSON         3 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-Bash         1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Markdown     1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Text         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Git Config   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Python       19 hrs 27 mins  ███████████████████░░░░░░   75.45 %
+JSON         3 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Markdown     1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Bash         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Text         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Git Config   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
