@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Nice to meet you! I am a senior CS student at UMich/SJTU. My current research is focused on language grounding to vision and robotics.
+Nice to meet you! This is Jiayi. I am an incoming PhD student at Berkeley BAIR, and am finishing my undergrad study at UMich/SJTU. 
 
 For more about me, see you on [my homepage](https://jiayipan.me) :)
-
