@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-This is Jiayi. I am a 1st-year PhD student at Berkeley AI Research. I enjoy understanding and making things.
-
+This is Jiayi. I am a PhD student at Berkeley AI Research.
 For more infomation, see you on [my homepage](https://jiayipan.me) :)
